@@ -11,7 +11,7 @@ This project is a machine learning model designed to classify diabetes based on 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Diabetes_Classifier.git
+   git clone https://github.com/PrakshaaleJain/Diabetes_Classifier.git
    cd Diabetes_Classifier
    ```
 
