@@ -14,10 +14,6 @@ This project is a machine learning model designed to classify diabetes based on 
    git clone https://github.com/yourusername/Diabetes_Classifier.git
    cd Diabetes_Classifier
    ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
